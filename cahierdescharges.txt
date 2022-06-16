@@ -1,0 +1,20 @@
+Nom du bot : Arizona Bot
+Prefix : a!
+Commande : 
+- wlcmsg (message de bienvenue)
+- msgmp (message de bienvenue en mp)
+- help
+- giveaway start
+- giveaway end
+- giveaway reroll
+- ban
+- unban
+- warn
+- unwarn
+- snipe (afficher le dernier message supprimé)
+- mute
+- unmute
+- embed (pouvoir créé un embed)
+- embed édit (pouvoir modifier un embed)
+- setprefix (changer de prefix)
+- setavatar (changer de pp pour le bot)
