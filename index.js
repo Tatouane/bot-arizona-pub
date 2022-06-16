@@ -10,4 +10,4 @@ const client = new Discord.Client({intents: 32767});
 require('./utils/functions')(client);
 
 //---connecting the bot----
-client.login(config.token);
+client.login(process.env.TOKEN);
